@@ -1,0 +1,7 @@
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\bin\Debug\Grabb_instal.exe.config
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\bin\Debug\Grabb_instal.exe
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\bin\Debug\Grabb_instal.pdb
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\obj\Debug\Grabb_instal.csproj.AssemblyReference.cache
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\obj\Debug\Grabb_instal.csproj.CoreCompileInputs.cache
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\obj\Debug\Grabb_instal.exe
+C:\Users\huber\source\repos\Grabb_instal\Grabb_instal\obj\Debug\Grabb_instal.pdb

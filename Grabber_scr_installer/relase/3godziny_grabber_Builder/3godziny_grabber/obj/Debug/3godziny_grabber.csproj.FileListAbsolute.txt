@@ -1,0 +1,10 @@
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\bin\Debug\3godziny_grabber.exe.config
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\bin\Debug\3godziny_grabber.exe
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\bin\Debug\3godziny_grabber.pdb
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\3godziny_grabber.csproj.AssemblyReference.cache
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\_3godziny_grabber.Form1.resources
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\_3godziny_grabber.Properties.Resources.resources
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\3godziny_grabber.csproj.GenerateResource.cache
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\3godziny_grabber.csproj.CoreCompileInputs.cache
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\3godziny_grabber.exe
+C:\Users\huber\source\repos\3godziny_grabber\3godziny_grabber\obj\Debug\3godziny_grabber.pdb
