@@ -4,49 +4,49 @@ Grabber 1.1.5
 Functions :
 -------------------------------------------------------------------------------------------
 Discord:
-
+_______________
 
 - Token grabber
 - Discord info
 - Discord qr off
 Browser:
-
+_______________
 
 - Passwords
 - Cookies
 - Disable
 General:
-
+_______________
 
 - IP
 - Machine Info
 - Screenshot
 Game:
-
+_______________
 
 - Minecraft
 - Roblox
 System:
-
+_______________
 
 - Mgr-off
 - Fat-off
 - Lua-off
 - AutoStart
 Program:
-
+_______________
 
 - Anti VM
 - Self Delete
 - Hidden
 Fake error:
-
+_______________
 
 - Normal
 - Error
 - Quest
 Webhook:
-
+_______________
 
 - test
 -------------------------------------------------------------------------
